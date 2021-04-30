@@ -1,2 +1,4 @@
 venv/
 audioAPI/__pycache__
+.vscode
+.gitignore

@@ -27,7 +27,7 @@ __Audiobook__ - {"Title": "title", "Author": "anchor", "Narrator": "narrator", "
 *For Example:*
 > { <br>
   "audioFileType": "Song", <br>
-  "audioFileMetadata": {“Name” : “name”, “Duration”: 123}<br>
+  "audioFileMetadata": {"Name" : "name", "Duration": 123}<br>
 }
  
 ## Task Question
